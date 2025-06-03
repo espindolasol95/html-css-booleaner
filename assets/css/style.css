@@ -1,0 +1,28 @@
+/*general source*/
+body{ 
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+/*title*/
+header{ 
+background-color: #2c98f0;
+color: white;
+text-aling: center;
+padding: 20px 0;
+}     
+header h 1{
+margin: 0;
+ont-size: 36 px;
+ont-weiht: bol;
+
+}
+/* main container*/
+.container {
+width: 900px;
+margin: 0 auto;
+background: white;
+padding: 20px;
+     
+}
