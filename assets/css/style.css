@@ -12,7 +12,7 @@ color: white;
 text-aling: center;
 padding: 20px 0;
 }     
-header h 1{
+header h1{
 margin: 0;
 ont-size: 36 px;
 ont-weiht: bol;
@@ -25,4 +25,14 @@ margin: 0 auto;
 background: white;
 padding: 20px;
      
+}
+/*article title*/
+h2{ font-size: 24px;
+    margin-top: 0;
+
+}
+/*author and date*/
+h6{ color: #666;
+    text-decoration: none;
+
 }
